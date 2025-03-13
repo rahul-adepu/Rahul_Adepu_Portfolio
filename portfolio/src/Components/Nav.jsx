@@ -1,7 +1,7 @@
 import React from 'react'
 import "../Styles/nav.css"
 import { useState } from 'react';
-import logo from "../Images/R.png"
+import logo from "../Images/Rahul.png"
 import Rahul_Adepu_Resume from "../files/Rahul_Adepu_Resume.pdf"
 
 

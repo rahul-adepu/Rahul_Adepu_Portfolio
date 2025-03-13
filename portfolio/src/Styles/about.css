@@ -13,6 +13,11 @@
 
 }
 
+/* #user-detail-intro{
+    font-family: 'Outfit',
+        sans-serif;
+} */
+
 .image-des {
 
     display: flex;
@@ -32,10 +37,8 @@
     text-align: justify;
     margin-top: 30px;
     margin-left: 10px;
-    line-height: 1.3rem;
-    font-size: 1.1rem;
-
-
+    line-height: 2.9rem;
+    font-size: 2.3rem;
     font-family: 'Outfit', sans-serif;
     font-weight: 300;
 
