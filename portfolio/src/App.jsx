@@ -2,6 +2,7 @@ import './App.css';
 import About from './Components/About';
 import Intro from './Components/Intro';
 import Nav from './Components/Nav';
+import Projects from './Components/Projects';
 import Techstacks from './Components/TechStacks';
 
 function App() {
@@ -11,6 +12,7 @@ function App() {
       <Intro />
       <About />
       <Techstacks />
+      <Projects />
     </div>
   );
 }
