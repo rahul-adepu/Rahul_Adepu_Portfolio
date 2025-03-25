@@ -1,6 +1,7 @@
 import './App.css';
 import About from './Components/About';
 import Contactme from './Components/Contactme';
+import Footer from './Components/Footer';
 import Intro from './Components/Intro';
 import Nav from './Components/Nav';
 import Projects from './Components/Projects';
@@ -15,6 +16,7 @@ function App() {
       <Techstacks />
       <Projects />
       <Contactme />
+      <Footer />
     </div>
   );
 }
