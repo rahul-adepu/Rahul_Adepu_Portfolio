@@ -57,7 +57,7 @@ const Nav = () => {
                     </div>
                     <ul className={`menu ${isActive ? 'active' : ''}`}>
                         <li>
-                            <a href="#" className="menu-btn active nav-link home" onClick={closemenu}>
+                            <a href="#home" className="menu-btn active nav-link home" onClick={closemenu}>
                                 Home
                             </a>
                         </li>
