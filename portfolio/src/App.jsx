@@ -8,6 +8,7 @@ import Nav from './Components/Nav';
 import Projects from './Components/Projects';
 import Techstacks from './Components/TechStacks';
 import ScrollToTopButton from './Components/Scroll';
+import Social from './Components/Social';
 
 function App() {
 
@@ -27,6 +28,7 @@ function App() {
       <Projects />
       <Contactme />
       <ScrollToTopButton />
+      <Social />
       <Footer />
     </div>
   );
