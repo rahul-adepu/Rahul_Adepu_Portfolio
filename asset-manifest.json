@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.6e8c8b5f.css",
+    "main.js": "/portfolio/static/js/main.ff498a58.js",
+    "static/js/453.1407b060.chunk.js": "/portfolio/static/js/453.1407b060.chunk.js",
+    "static/media/devloperLogo.svg": "/portfolio/static/media/devloperLogo.4ccaed63462142b961fad2ff6c869879.svg",
+    "static/media/Dunzo.png": "/portfolio/static/media/Dunzo.130179d68c1830a85661.png",
+    "static/media/PP.jpg": "/portfolio/static/media/PP.37aeef723944ee877ef1.jpg",
+    "static/media/Notes Img.png": "/portfolio/static/media/Notes Img.cf57461d4578dcfe589d.png",
+    "static/media/Rahul_Adepu_Resume.pdf": "/portfolio/static/media/Rahul_Adepu_Resume.e9b811cbc8d992b5d4b2.pdf",
+    "static/media/zustand.png": "/portfolio/static/media/zustand.cd0e223e58ace9623098.png",
+    "static/media/Rahul.png": "/portfolio/static/media/Rahul.48c18662b26284245451.png",
+    "static/media/vercel-seeklogo.com.svg": "/portfolio/static/media/vercel-seeklogo.com.909054213023bf7802ac2cdccd861157.svg",
+    "static/media/icons8-node-js.svg": "/portfolio/static/media/icons8-node-js.aa1a9ee6d1a1a6b83eb9826b048a97c2.svg",
+    "static/media/icons8-react-native.svg": "/portfolio/static/media/icons8-react-native.21b5daa594e0977b3ac254df4795c98a.svg",
+    "static/media/icons8-github (1).svg": "/portfolio/static/media/icons8-github (1).c566cf35aa8485e32937a0b5838d93ae.svg",
+    "static/media/icons8-express-js.svg": "/portfolio/static/media/icons8-express-js.c17f27f249c6c22e01c5d30e9f25dc6d.svg",
+    "index.html": "/portfolio/index.html",
+    "static/media/icons8-visual-studio-code-2019.svg": "/portfolio/static/media/icons8-visual-studio-code-2019.a227f2b476a9693602ccb65ede4ea460.svg",
+    "static/media/icons8-chakra-ui.svg": "/portfolio/static/media/icons8-chakra-ui.3cc0dcf33272ae6294329e6a24f995e9.svg",
+    "main.6e8c8b5f.css.map": "/portfolio/static/css/main.6e8c8b5f.css.map",
+    "main.ff498a58.js.map": "/portfolio/static/js/main.ff498a58.js.map",
+    "453.1407b060.chunk.js.map": "/portfolio/static/js/453.1407b060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6e8c8b5f.css",
+    "static/js/main.ff498a58.js"
+  ]
+}
